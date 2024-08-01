@@ -1,2 +1,2 @@
 # universal_classifier_final
-Can classify any dataset, shows EDA and derived insights from multiple classification models.
+Can classify any dataset, shows EDA and derive insights from multiple classification models.
